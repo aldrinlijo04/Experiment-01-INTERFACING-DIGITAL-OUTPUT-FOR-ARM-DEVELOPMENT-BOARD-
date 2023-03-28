@@ -79,6 +79,7 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+```c
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
@@ -285,7 +286,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-
+```
 
 
 ## Output  :
